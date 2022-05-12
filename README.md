@@ -1,3 +1,7 @@
+The STEP BY STEP pdf is included. this was made using datatables instead of arrays. These last two can be used to do the challenge as well.
+
+
+
 ### Documentation is included in the Documentation folder ###
 
 [REFrameWork Documentation](https://github.com/UiPath/ReFrameWork/blob/master/Documentation/REFramework%20documentation.pdf)
