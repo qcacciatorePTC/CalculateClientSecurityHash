@@ -5,6 +5,7 @@
   "dependencies": {
     "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.7.2]",
+    "UiPath.Mail.Activities": "[1.15.1]",
     "UiPath.System.Activities": "[21.4.0]",
     "UiPath.UIAutomation.Activities": "[20.4.1]"
   },
@@ -15,6 +16,7 @@
   "projectVersion": "1.0.0.0",
   "runtimeOptions": {
     "autoDispose": false,
+    "netFrameworkLazyLoading": false,
     "isPausable": true,
     "isAttended": false,
     "requiresUserInteraction": true,
