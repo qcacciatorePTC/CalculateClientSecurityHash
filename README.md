@@ -1,4 +1,4 @@
-The STEP BY STEP pdf is included. this was made using datatables instead of arrays. These last two can be used to do the challenge as well.
+The STEP BY STEP pdf is included. this was made using datatables instead of arrays or lists. These last two can be used to do the challenge as well.
 
 
 
